@@ -1,0 +1,15 @@
+[submodule "2012-06-playlist"]
+	path = 2012-06-playlist
+	url = https://github.com/Earlthenut/2012-06-playlist.git
+[submodule "2013-01-playlist"]
+	path = 2013-01-playlist
+	url = https://github.com/Earlthenut/2013-01-playlist.git
+[submodule "2013-05-playlist"]
+	path = 2013-05-playlist
+	url = https://github.com/Earlthenut/2013-05-playlist.git
+[submodule "2014-05-playlist"]
+	path = 2014-05-playlist
+	url = https://github.com/Earlthenut/2014-05-playlist.git
+[submodule "2014-01-playlist"]
+	path = 2014-01-playlist
+	url = https://github.com/Earlthenut/2014-01-playlist.git
